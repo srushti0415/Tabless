@@ -10,10 +10,18 @@
 
 // }
 
-let a = 20;
-while (a<=20) {
-   a=a++;
-   a=a*a;
-    console.log(a);
-}
+// let a = 20;
+// while (a<=20) {
+//    a=a++;
+//    a=a*a;
+//     console.log(a);
+// }
 
+
+let a=40;
+let b=30;
+    while (a+b&&a*b&&a/b&&a-b) {
+        console.log(a-b);
+        a&&b == a&&b++;
+        
+    }
