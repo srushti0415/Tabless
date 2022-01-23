@@ -6,7 +6,7 @@
 //         console.log("odd no.")
 //     }
 // }
-// EvenorOdd(6);
+// EvenorOdd(645);
 
 // let b = 1;
 // function Tables(a) {
@@ -15,7 +15,7 @@
 //         b++;
 //     }
 // }
-// Tables(15);
+// Tables(1775);
 
 function squareroot(a,b){
     while (a==b){
@@ -23,4 +23,4 @@ function squareroot(a,b){
         a++;
     }
 }
-squareroot(8,8)
+squareroot(4,8)
